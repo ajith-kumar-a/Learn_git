@@ -6,10 +6,10 @@ package com.itaji.kumar;
  * @author ajitha
  *
  */
-public class helloaji {
+public class helloaji {     
 	
 	/**
-	 * the entry point to the program
+	 * thee entry point to the program
 	 * 
 	 * 
 	 * @param args input arguments

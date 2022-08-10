@@ -6,6 +6,8 @@ package com.itaji.kumar;
  * @author ajitha
  *
  */
+
+
 public class helloaji {     
 	
 	/**
@@ -23,8 +25,6 @@ public class helloaji {
 		 * plz
 		 * 
 		 */
-		
-		
 		
 		
 		

@@ -1,5 +1,9 @@
 {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Red"
+    "rollno" : 23,
+    "name" : "Priya",
+    "city" : "Delhi",
+    "sclass" : "1 st Class",
+    "contact" : "9888787887",
+    "simage" : "http"
 }
+    

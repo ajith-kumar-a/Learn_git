@@ -1,5 +1,28 @@
 
-   {
+ [ 
+    {
    "name" : "Aji",
    "age" : 22
+},
+    
+{
+   "name" : "Alexa",
+   "age" : 10
+},
+    
+{
+   "name" : "Siri",
+   "age" : 8
+},
+    
+{
+   "name" : "Physico",
+   "age" : 23
+},
+    
+{
+   "name" : "Natasha",
+   "age" : 17
 }
+ ]
+    

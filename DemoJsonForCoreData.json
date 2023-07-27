@@ -1,31 +1,31 @@
 
  [ 
     {
-   "name" : "Aji",
+   "aname" : "Aji",
    "age" : 22,
      "gender" : "Male"
 },
     
 {
-   "name" : "Alexa",
+   "aname" : "Alexa",
    "age" : 8,
      "gender" : "Bot"
 },
     
 {
-   "name" : "Siri",
+   "aname" : "Siri",
    "age" : 10,
      "gender" : "Bot"
 },
     
 {
-   "name" : "Physico",
+   "aname" : "Physico",
    "age" : 23,
      "gender" : "Female"
 },
     
 {
-   "name" : "Natasha",
+   "aname" : "Natasha",
    "age" :  16,
      "gender" : "Bot"
 }

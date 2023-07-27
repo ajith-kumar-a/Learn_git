@@ -3,7 +3,7 @@
     "name" : "Priya",
     "city" : "Delhi",
     "sclass" : "1 st Class",
-    "contact" : "212345",
+    "contact" : 4212345,
     "simage" : "http"
 }
     

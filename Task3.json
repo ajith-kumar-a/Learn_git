@@ -1,0 +1,32 @@
+[
+    {
+   "aname" : "Aji",
+   "age" : 22,
+     "gender" : "Male"
+},
+    
+{
+   "aname" : "Alexa",
+   "age" : 8,
+     "gender" : "Bot"
+},
+    
+{
+   "aname" : "Siri",
+   "age" : 10,
+     "gender" : "Bot"
+},
+    
+{
+   "aname" : "Physico",
+   "age" : 23,
+     "gender" : "Female"
+},
+    
+{
+   "aname" : "Natasha",
+   "age" :  16,
+     "gender" : "Bot"
+}
+ ]
+    

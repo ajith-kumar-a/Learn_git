@@ -1,0 +1,32 @@
+[
+    {
+   "aname" : "Doremon",
+   "age" : "17",
+     "gender" : "Robot"
+},
+    
+{
+   "aname" : "Dora",
+   "age" : "15",
+     "gender" : "Female"
+},
+    
+{
+   "aname" : "Ash",
+   "age" : "16",
+     "gender" : "Male"
+},
+    
+{
+   "aname" : "Ben",
+   "age" : "18",
+     "gender" : "Male"
+},
+    
+{
+   "aname" : "Naruto",
+   "age" :  "16",
+     "gender" : "Male"
+}
+ ]
+    

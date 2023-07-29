@@ -1,0 +1,32 @@
+[
+  "Contacts" :[ {
+   "name" : "Doremon",
+   "id" : 17,
+     "email" : "Robot@gmail.com"
+},
+    
+{
+   "name" : "Dora",
+   "id" : 15,
+     "email" : "Dora@gmail.com"
+},
+    
+{
+   "name" : "Ash",
+   "id" : 16,
+     "email" : "Ash@gmail.com"
+},
+    
+{
+   "name" : "Ben",
+   "id" : 18,
+     "email" : "Ben@gmail.com"
+},
+    
+{
+   "name" : "Naruto",
+   "id" :  16,
+     "email" : "Naruto@gmail.com"
+}
+ ]
+  ]

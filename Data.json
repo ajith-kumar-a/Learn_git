@@ -1,6 +1,5 @@
-
-  "contacts" :[ 
-    {
+[
+  {
    "name" : "Doremon",
    "id" : 17,
      "email" : "Robot@gmail.com"
@@ -29,4 +28,4 @@
    "id" :  16,
      "email" : "Naruto@gmail.com"
 }
- ]
+]
